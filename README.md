@@ -1,7 +1,7 @@
 # Great American Coffee Taste Test Analysis
 
 **Authors:** James Kim, Dhruv Shah, Sang Tran  
-**Date:** Spring 2025
+**Date:** April 29th, 2025
 
 ---
 
