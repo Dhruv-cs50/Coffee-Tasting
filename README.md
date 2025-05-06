@@ -29,7 +29,7 @@ coffee_taste_test/
 │   ├── 01_data_cleaning.ipynb
 │   ├── 02_exploratory_analysis.ipynb
 │   ├── 03_statistical_tests.ipynb
-│   └── 04_tasting_notes.ipynb
+│   └── 04_machine_learning_models.ipynb
 ├── src/
 │   ├── clean.py
 │   ├── eda.py
