@@ -62,12 +62,7 @@ coffee_taste_test/<br>
    source venv/bin/activate
    ```
 
-3.	Install dependencies
-   ```
-   pip install -r requirements.txt
-   ```
-
-4.	Run the analysis notebooks in order
+3.	Run the analysis notebooks in order
 	1.	01_data_cleaning.ipynb → produces cleaned_core.csv and cleaned_with_notes.csv
 	2.	02_exploratory_analysis.ipynb → generates EDA plots in output/figures
 	3.	03_statistical_tests.ipynb → computes chi-square tests and roast-alignment rates
