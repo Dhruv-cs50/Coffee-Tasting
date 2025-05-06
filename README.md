@@ -18,27 +18,27 @@ The Great American Coffee Taste Test project investigates how roast level, demog
 
 ## 📂 Repository Structure
 
-coffee_taste_test/
-├── data/
-│   ├── raw/
-│   │   └── GACTT_RESULTS_ANONYMIZED_v2.csv
-│   └── clean/
-│       ├── cleaned_core.csv
-│       └── cleaned_with_notes.csv
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_exploratory_analysis.ipynb
-│   ├── 03_statistical_tests.ipynb
-│   └── 04_machine_learning_models.ipynb
-├── src/
-│   ├── clean.py
-│   ├── eda.py
-│   └── stats.py
-├── output/
-│   ├── figures/
-│   └── tables/
-├── requirements.txt
-└── README.md
+coffee_taste_test/<br>
+├── data/<br>
+│   ├── raw/<br>
+│   │   └── GACTT_RESULTS_ANONYMIZED_v2.csv<br>
+│   └── clean/<br>
+│       ├── cleaned_core.csv<br>
+│       └── cleaned_with_notes.csv<br>
+├── notebooks/<br>
+│   ├── 01_data_cleaning.ipynb<br>
+│   ├── 02_exploratory_analysis.ipynb<br>
+│   ├── 03_statistical_tests.ipynb<br>
+│   └── 04_machine_learning_models.ipynb<br>
+├── src/<br>
+│   ├── clean.py<br>
+│   ├── eda.py<br>
+│   └── stats.py<br>
+├── output/<br>
+│   ├── figures/<br>
+│   └── tables/<br>
+├── requirements.txt<br>
+└── README.md<br>
 
 - **data/raw/**: original dataset files  
 - **data/clean/**: cleaned CSVs with selected columns and normalized fields  
